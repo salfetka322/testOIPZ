@@ -1,4 +1,9 @@
 test
 test2
 test3
+<<<<<<< Updated upstream
+=======
 test4
+test5
+test6
+>>>>>>> Stashed changes
